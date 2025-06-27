@@ -83,11 +83,3 @@ El diseño está hecho con Tailwind CSS y sigue un enfoque *mobile first*.
 📧 Correo: [14bryansaenz@gmail.com](mailto:14bryansaenz@gmail.com)  
 🌐 GitHub: [github.com/Bryan14Saenz](https://github.com/Bryan14Saenz)  
 🔗 LinkedIn: [linkedin.com/in/14bryansaenz](https://www.linkedin.com/in/14bryansaenz)
-
----
-
-## 🌍 Demo en línea
-
-🟢 Pronto disponible en Netlify...
-
-> ¿Querés que te ayude a subirlo? En menos de 5 minutos lo tenés en línea 😎
