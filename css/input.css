@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.btn {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  border-radius: 1.5rem;
+  color: white;
+}
